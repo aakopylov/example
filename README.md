@@ -1,2 +1,1 @@
-example
-=======
+this is just example
